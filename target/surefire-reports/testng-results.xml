@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-10T16:10:24 MSK" name="Surefire suite" finished-at="2023-01-10T16:10:24 MSK" duration-ms="259">
+    <groups>
+    </groups>
+    <test started-at="2023-01-10T16:10:24 MSK" name="Surefire test" finished-at="2023-01-10T16:10:24 MSK" duration-ms="259">
+      <class name="TestDataProvider">
+        <test-method signature="myTest(java.lang.String,java.lang.String)[pri:0, instance:TestDataProvider@1929425f]" started-at="2023-01-10T16:10:24 MSK" name="myTest" data-provider="login data" finished-at="2023-01-10T16:10:24 MSK" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aidai@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asd123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method signature="myTest(java.lang.String,java.lang.String)[pri:0, instance:TestDataProvider@1929425f]" started-at="2023-01-10T16:10:24 MSK" name="myTest" data-provider="login data" finished-at="2023-01-10T16:10:24 MSK" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[email2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method signature="myTest(java.lang.String,java.lang.String)[pri:0, instance:TestDataProvider@1929425f]" started-at="2023-01-10T16:10:24 MSK" name="myTest" data-provider="login data" finished-at="2023-01-10T16:10:24 MSK" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[email2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method signature="myTest(java.lang.String,java.lang.String)[pri:0, instance:TestDataProvider@1929425f]" started-at="2023-01-10T16:10:24 MSK" name="myTest" data-provider="login data" finished-at="2023-01-10T16:10:24 MSK" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[email2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method signature="myTest(java.lang.String,java.lang.String)[pri:0, instance:TestDataProvider@1929425f]" started-at="2023-01-10T16:10:24 MSK" name="myTest" data-provider="login data" finished-at="2023-01-10T16:10:24 MSK" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[email2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+      </class> <!-- TestDataProvider -->
+      <class name="TestDemo">
+        <test-method signature="testSum3()[pri:0, instance:TestDemo@718607eb]" started-at="2023-01-10T16:10:24 MSK" name="testSum3" finished-at="2023-01-10T16:10:24 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum3 -->
+      </class> <!-- TestDemo -->
+      <class name="TestUser">
+        <test-method signature="testSum2()[pri:0, instance:TestUser@5b43e173]" started-at="2023-01-10T16:10:24 MSK" name="testSum2" finished-at="2023-01-10T16:10:24 MSK" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum2 -->
+      </class> <!-- TestUser -->
+      <class name="PracticeTest">
+        <test-method is-config="true" signature="testEvenSum()[pri:0, instance:PracticeTest@79c5636f]" started-at="2023-01-10T16:10:24 MSK" name="testEvenSum" finished-at="2023-01-10T16:10:24 MSK" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEvenSum -->
+        <test-method signature="testEvenSum()[pri:0, instance:PracticeTest@79c5636f]" started-at="2023-01-10T16:10:24 MSK" name="testEvenSum" finished-at="2023-01-10T16:10:24 MSK" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEvenSum -->
+      </class> <!-- PracticeTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,1 @@
+{"uuid":"d8ee379f-3b57-4953-99ae-a37520fe7018","name":"PracticeTest","children":["a97a6f16-dad4-48ee-a0ec-98b0498946f8"],"befores":[{"name":"testEvenSum","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1673356224591,"stop":1673356224592}],"afters":[],"start":1673356224345,"stop":1673356224605}
